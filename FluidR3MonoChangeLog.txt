@@ -1,3 +1,4 @@
+Version 2.313  Remap Marching Bass Samples and add simultaneous hit
 Version 2.312  Fix tuning issue in Bassoon
 Version 2.311  Fix bad release envelope in Guitar Harmonics
 Version 2.310  Remap Marching Tenor Samples, loop buzz rolls and add stick click to Marching Tenor instrument.

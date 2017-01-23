@@ -1,11 +1,11 @@
 FluidR3Mono_GM.sf2
 ---
 
-Current version: 2.312 5th December 2016
+Current version: 2.313 6th January 2017
 
 Original Stereo version by Frank Wen Copyright © 2000-2002
 
-Mono version by Michael Cowgill Copyright © 2014-16
+Mono version by Michael Cowgill Copyright © 2014-17
 
 Temple Blocks instrument provided by Ethan Winer Copyright © 2002
 
